@@ -24,7 +24,7 @@ button2.addEventListener("click", function () {
 
   main.innerHTML = `<div class="clicou-sim">
   <p>
-    Não esperava muito mesmo
+    Não esperava muito mesmo rs
   </p>
 </div>`;
 });
